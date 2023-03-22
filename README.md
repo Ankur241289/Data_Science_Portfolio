@@ -28,6 +28,11 @@ _Note: Data used in the projects is for demonstration purposes only._
     _Tools: Microsoft SQL & Microsoft Excel_
   
   
+  - __Tableau__
+    - [Covid -19 Basic Dashboard](https://public.tableau.com/app/profile/ankur.singh1463/viz/Covid-19BasicDashboard_16795111037710/Dashboard1?publish=yes): Data Visualization Portfolio project done by me to visualize basic Covid-19 data via Dashboard using Tableau Public.
+  
+    _Tools: Tableau Public & Microsoft Excel_
+  
 I am currently working on my Data Science Portfolio, the above mentioned projects are only the beginning of my Data Science journey. More projects will be uploaded regularly. If you want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at ankursingh@outlook.com. 
 
 If you like what you see in this portfolio and have any suggestions for me then you are most welcome. As I am in the learning phase of Data Science, I would love to hear your thoughts and suggestions as how to improve my portfolio which could help me enter the Data Science field.....  Gracias amigos....❤️
