@@ -35,6 +35,7 @@ _Note: Data used in the projects is for demonstration purposes only._
     _Tools: Tableau Public & Google Big Query for preparing data_
 
     - [Covid -19 Trend Analysis Dashboard](https://public.tableau.com/app/profile/ankur.singh1463/viz/Covid-19BasicDashboard_16795111037710/Dashboard1?publish=yes): Data Visualization Portfolio project done by me to visualize basic Covid-19 data via Dashboard using Tableau Public.
+     ![Alt text](Images/Covid-19-Dashboard.png)
   
     _Tools: Tableau Public & Microsoft Excel_
   
