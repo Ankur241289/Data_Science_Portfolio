@@ -27,7 +27,7 @@ _Note: Data used in the projects is for demonstration purposes only._
   
     _Tools: Microsoft SQL & Microsoft Excel_
   
-  
+- ### Data Visualization
   - __Data Visualization on Tableau__
     - [Google Fiber Repeat Call Analysis](https://public.tableau.com/app/profile/ankur.singh1463/viz/GoogleFiberRepeatCallsAnalysisGoogleBIProfessionalProject/Dashboard1): This project contains 5 Reports and 3 Dashboards. This dashboard was part of Google Business Intelligence Certificate, where I had to make reports and dashboards to provide insights on Repeat Calls Analysis for Google Fiber Department.
     ![Alt text](Images/GoogleFiber%20Dashboard%201.png)
