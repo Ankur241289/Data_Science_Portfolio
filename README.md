@@ -14,7 +14,7 @@ _Note: Data used in the projects is for demonstration purposes only._
 
 ## Contents
 
-- ### Data Analysis and Visualisation
+- ### Data Analysis
 	- __Exploratory Data Analysis on Python__
 		- [EDA on Titanic Dataset](https://github.com/Ankur241289/EDA_on_Titanic_Dataset/blob/master/EDA%20Titanic%20Dataset%20.ipynb): Exploratory Data Analysis of the data for passengers onboard during the fatal Titanic crash using Pandas and Seaborn visualisations.
     
