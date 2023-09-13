@@ -33,6 +33,12 @@ _Note: Data used in the projects is for demonstration purposes only._
     ![Alt text](Images/GoogleFiber%20Dashboard%201.png)
     
     _Tools: Tableau Public & Google Big Query for preparing data_
+    
+    - [Athens Airbnb Data Vislualization](https://public.tableau.com/app/profile/ankur.singh1463/viz/AthensAirbnbDataforGoogleBIProfessionalCertificate/AthensAirbnbDashGoogleBIProfessionalCertificate): This dashboard was created by me to visualilze details of:
+      1. Average Neighborhood Price in Athens.
+      2. Rooms type with Average Price
+      3. Popular areas (Visualization on Map)
+     ![Alt text](Images/Athens-Airbnb-Dash-(Google-BI-Professional-Certificate).png)
 
     - [Covid -19 Trend Analysis Dashboard](https://public.tableau.com/app/profile/ankur.singh1463/viz/Covid-19BasicDashboard_16795111037710/Dashboard1?publish=yes): Data Visualization Portfolio project done by me to visualize basic Covid-19 data via Dashboard using Tableau Public.
      ![Alt text](Images/Covid-19-Dashboard.png)
