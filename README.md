@@ -15,21 +15,24 @@ _Note: Data used in the projects is for demonstration purposes only._
 ## Contents
 
 - ### Data Analysis and Visualisation
-	- __Python__
+	- __Exploratory Data Analysis on Python__
 		- [EDA on Titanic Dataset](https://github.com/Ankur241289/EDA_on_Titanic_Dataset/blob/master/EDA%20Titanic%20Dataset%20.ipynb): Exploratory Data Analysis of the data for passengers onboard during the fatal Titanic crash using Pandas and Seaborn visualisations.
     
       - [Capstone Project-EDA on Play Store App Review Analysis](https://github.com/Ankur241289/Capstone-Project---EDA-on-Play-Store-App-Review-Analysis/blob/master/Ankur_Singh_EDA_Play_Store_App_Review_Analysis.ipynb) : Exploratory Data Analysis on Play Store App Review Analysis. This project was done by me as a requirement of Module-1 Python for Data Science for "Full Stack Data Science" Program of AlmaBetter.
     		
 	  _Tools: Pandas, Seaborn and Matplotlib_
  
-  - __SQL__
+  - __Data Analysis on SQL__
     - [Covid -19 Data Analysis using SQL Queries](https://github.com/Ankur241289/Data_Science_Portfolio/blob/master/SQL%20Data%20Exploration%20Covid-19%20Data/Covid%20Data%20Exploration%20Portfolio%20Project%2004-03-2023.sql): Portfolio project done by me to explore Covid-19 data using SQL-Queries.
   
     _Tools: Microsoft SQL & Microsoft Excel_
   
   
-  - __Tableau__
-    - [Covid -19 Basic Dashboard](https://public.tableau.com/app/profile/ankur.singh1463/viz/Covid-19BasicDashboard_16795111037710/Dashboard1?publish=yes): Data Visualization Portfolio project done by me to visualize basic Covid-19 data via Dashboard using Tableau Public.
+  - __Data Visualization on Tableau__
+    - [Google Fiber Repeat Call Analysis](https://public.tableau.com/app/profile/ankur.singh1463/viz/GoogleFiberRepeatCallsAnalysisGoogleBIProfessionalProject/Dashboard1): This project contains 5 Reports and 3 Dashboards. This dashboard was part of Google Business Intelligence Certificate, where I had to make reports and dashboards to provide insights on Repeat Calls Analysis for Google Fiber Department.
+    _Tools: Tableau Public & Google Big Query for preparing data_
+
+    - [Covid -19 Trend Analysis Dashboard](https://public.tableau.com/app/profile/ankur.singh1463/viz/Covid-19BasicDashboard_16795111037710/Dashboard1?publish=yes): Data Visualization Portfolio project done by me to visualize basic Covid-19 data via Dashboard using Tableau Public.
   
     _Tools: Tableau Public & Microsoft Excel_
   
